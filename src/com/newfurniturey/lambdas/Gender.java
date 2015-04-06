@@ -1,6 +1,6 @@
 package com.newfurniturey.lambdas;
 
-enum Gender {
+public enum Gender {
 	MALE,
 	FEMALE
 }

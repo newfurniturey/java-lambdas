@@ -1,6 +1,6 @@
 package com.newfurniturey.lambdas;
 
-class Person {
+public class Person {
 	private String surName;
 	private Gender gender;
 	private int age;
